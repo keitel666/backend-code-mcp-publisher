@@ -1,0 +1,9 @@
+PackageIdentifier: SZEtop.BackendCodeMCP
+PackageVersion: 0.0.1
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://keitel666.github.io/backend-code-mcp-publisher/downloads/BackendCodeMCP_0.0.1.exe
+    InstallerSha256: 534C3BDF21777F9C7C145F04DF71D9C737C99777E01E1690DF04FBC361D4D247
+    InstallerType: exe
+    SilentInstall: '/VERYSILENT /NORESTART /SP-'
+    Scope: user

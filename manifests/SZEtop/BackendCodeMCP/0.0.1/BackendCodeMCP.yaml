@@ -1,0 +1,16 @@
+Id: SZEtop.BackendCodeMCP
+Name: SZEtop BackendCodeMCP
+Publisher: 深圳市易图资讯股份有限公司
+PublisherUrl: https://www.szetop.cn/
+Version: 0.0.1
+Description: SZEtop BackendCodeMCP 安装程序
+Homepage: https://www.szetop.cn/
+License: Proprietary
+InstallerType: exe
+Installers:
+  - Arch: x64
+    Url: https://keitel666.github.io/backend-code-mcp-publisher/downloads/BackendCodeMCP_0.0.1.exe
+    Sha256: 534C3BDF21777F9C7C145F04DF71D9C737C99777E01E1690DF04FBC361D4D247
+    SilentInstall: '/VERYSILENT /NORESTART /SP-'
+    Languages:
+      - zh-CN
